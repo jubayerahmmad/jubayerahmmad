@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently learning web development
+It's me @jubayerahmmad
+
+🌱 I’m currently learning Web Development
+
+⚡ Fun fact I'm a NewBiee
 
 
 ## 🌐 Socials:
