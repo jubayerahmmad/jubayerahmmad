@@ -3,7 +3,7 @@ It's me @jubayerahmmad
 
 🌱 I’m currently learning Web Development
 
-⚡ Fun fact I'm a NewBiee
+⚡ Fun fact I'm a Beginner
 
 
 ## 🌐 Socials:
