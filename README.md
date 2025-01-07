@@ -1,3 +1,7 @@
+![Black and White Modern Professional Sales and Marketing Profile LinkedIn Banner](https://github.com/user-attachments/assets/87e78e8c-4046-47df-a67a-1f0e8e4d7ec1)
+
+
+
 # 💫 About Me:
 Hi there, I'm Jubayer Ahmmad 👋<br>📍 Based in Bangladesh<br>💻 Aspiring Front-End Web Developer | MERN Stack Enthusiast<br><br>I’m passionate about building intuitive and user-friendly web applications. My journey into the world of coding started with React.js and JavaScript, and I’ve been expanding my skills in back-end development with Node.js, MongoDB, and Express.js.
 
