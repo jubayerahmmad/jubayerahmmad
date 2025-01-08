@@ -1,5 +1,7 @@
 ![Black and White Modern Professional Sales and Marketing Profile LinkedIn Banner](https://github.com/user-attachments/assets/87e78e8c-4046-47df-a67a-1f0e8e4d7ec1)
 
+# Jubayer Ahmmad
+### Jr. Front End Developer
 
 
 # 💫 About Me:
