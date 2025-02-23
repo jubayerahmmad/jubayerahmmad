@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-Hi there, I'm Jubayer Ahmmad 👋<br>📍 Based in Bangladesh<br>💻 Aspiring Front-End Web Developer | MERN Stack Enthusiast <br>Currently Learning NextJS <br><br>I’m passionate about building intuitive and user-friendly web applications. My journey into the world of coding started with React.js and JavaScript, and I’ve been expanding my skills in back-end development with Node.js, MongoDB, and Express.js.
+Hi there, I'm Jubayer Ahmmad 👋<br>📍 Based in Bangladesh<br>💻 Aspiring Front-End Web Developer | MERN Stack Enthusiast | Currently Learning NextJS <br><br>I’m passionate about building intuitive and user-friendly web applications. My journey into the world of coding started with React.js and JavaScript, and I’ve been expanding my skills in back-end development with Node.js, MongoDB, and Express.js.
 
 
 ## 🌐 Socials:
