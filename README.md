@@ -1,21 +1,20 @@
-![Banner](https://github.com/user-attachments/assets/87e78e8c-4046-47df-a67a-1f0e8e4d7ec1)
+![Banner](https://i.ibb.co.com/h1JJNjJR/linked-bg.png)
 
 # Jubayer Ahmmad
-### Jr. Front End Developer
+### Jr. Web Developer
 
 
-# 💫 About Me:
-Hi there, I'm Jubayer Ahmmad 👋<br>📍 Based in Bangladesh<br>💻 Junior Front-End Developer | MERN Stack Enthusiast | Learning Next.js & TypeScript<br><br>I'm passionate about building responsive, scalable, and user-friendly web applications.
+# About Me:
+Hi there, I'm Jubayer Ahmmad 👋<br>📍 Based in Bangladesh<br>💻 Junior Web Developer | MERN Stack Enthusiast <br><br>I'm passionate about building responsive, scalable, and user-friendly web applications.
 My journey started with JavaScript and React.js, and since then, I’ve been expanding into the full MERN stack with Node.js, Express.js, and MongoDB.
-Currently, I'm diving deeper into Next.js and TypeScript to level up my skills and build even more powerful web experiences. 🚀
-
-Always learning, always building.
+Currently, I'm diving deeper into Next.js and TypeScript to level up my skills and build even more powerful web experiences. 
 
 
-## 🌐 Socials:
+
+## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/zubayerahmmad.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jubayer-ahmmad073/) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
@@ -28,10 +27,10 @@ Always learning, always building.
 
 
 
-# 🛠️ Tools:
+# Tools:
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jubayerahmmad&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jubayerahmmad&theme=slateorange&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jubayerahmmad&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
