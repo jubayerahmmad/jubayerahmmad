@@ -1,11 +1,11 @@
-![Banner](https://i.ibb.co.com/h1JJNjJR/linked-bg.png)
+![Banner](https://i.ibb.co.com/q3Y4H2nK/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png)
 
 # Jubayer Ahmmad
-### Jr. Frontend Developer
+### Associate Frontend Developer
 
 
 # 💫 About Me:
-Frontend Developer Intern at Hishabee Technologies Limited.<br>Based in Bangladesh.<br><br>Focused on building responsive, scalable web interfaces using React.js and Next.js.<br>Comfortable with modern JavaScript, component-based UI, and frontend architecture.<br>Working knowledge of backend APIs and databases for full-stack collaboration.
+Associate Frontend Developer at Hishabee Technologies Limited.<br>Based in Bangladesh.<br><br>Focused on building responsive, scalable web interfaces using React.js and Next.js.<br>Comfortable with modern JavaScript, component-based UI, and frontend architecture.<br>Working knowledge of backend APIs and databases for full-stack collaboration.
 
 
 ## 🌐 Socials:
